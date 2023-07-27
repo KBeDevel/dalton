@@ -2,7 +2,7 @@
 
 The atomic-oriented code editor
 
-This repository is a fork of the amazing and (sadly) deprecated the electron-based code editor, [Atom](https://github.com/atom/atom).
+This repository is a fork of the amazing and (sadly) deprecated electron-based code editor, [Atom](https://github.com/atom/atom).
 
 This is an experimental and small project oriented to provide a lightweight code editor focused on modularity and performance.
 
